@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Ikhanoba%20Michael-Shaka&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Ikhanoba%20Michael-Shaka)
 
 
 <p align="center">
@@ -91,7 +91,7 @@
 </div>
 <div align="center">
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Splax-s&show_icons=true&include_all_commits=true&bg_color=2E3440,3B4252,434C5E&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=splax-s&show_icons=true&include_all_commits=true&bg_color=2E3440,3B4252,434C5E&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Splax-s&layout=compact&bg_color=2E3440,3B4252,434C5E&title_color=88C0D0&text_color=D8DEE9">
 </p>
 </div>
